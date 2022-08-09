@@ -1,0 +1,13 @@
+.student-card-active{
+    cursor: pointer;
+}
+.student-card-active:hover{
+    background-color: aqua;
+}
+.student-card-inactive{
+    cursor: pointer;
+    background-color: tomato;
+}
+.student-card-inactive:hover{
+    background-color: darksalmon;
+}

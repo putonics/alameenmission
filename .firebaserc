@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "alameenmission"
+  },
+  "targets": {
+    "alameenmission": {
+      "hosting": {
+        "alameenmission": [
+          "alameenmission"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
