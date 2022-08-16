@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "alameenmission"
+    "default": "alameen-mission"
   },
   "targets": {
     "alameenmission": {
