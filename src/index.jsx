@@ -19,7 +19,7 @@ initializeApp(
     Buffer.from(
       y
         .split("O")
-        .map((v) => v / z.split("").filter((v) => v != "%y467@2\\f0cK").length)
+        .map((v) => v / z.split("").filter((v) => v !== "%y467@2\\f0cK").length)
     ).toString()
   )
 )
